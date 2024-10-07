@@ -1,7 +1,5 @@
 # data-512-homework_1
 
-# README for Wikipedia Article Page Views Analysis
-
 ## Project Goal
 This project aims to analyze the page views of Wikipedia articles related to rare diseases. The analysis focuses on identifying trends in desktop and mobile page views over time. The insights gathered can help researchers understand the public interest in these topics. The project generates datasets of desktop and mobile access for each article and visualizes specific trends, including:
 
